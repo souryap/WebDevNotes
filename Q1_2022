@@ -18,3 +18,14 @@ Didn't feel like reading after playing 'Lost Ark' and watching Twitch stream and
 spent 15 minutes reading the basic of how web works and web performance (latency, single thread etc). Felt good.
 ---
 
+8th Feb 2022 | Tues | 9.30pm
+- heard a new term "Time to First Byte" (TTFB)
+- The first chunk of content is usually 14kb of data
+- heard of 'TCP Slow Start / 14 kb rule'
+- ACK means acknowledgement
+- there's something called send rate
+- Parsing is the step the browser takes to turn the data it receives over the network into the DOM and CSSOM,
+which is used by the rendered to paint a page to the screen.
+---
+
+

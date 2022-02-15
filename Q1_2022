@@ -38,3 +38,20 @@ which is used by the rendered to paint a page to the screen.
 - Box Model and Grid Model
 ---
 
+15th Feb 2022 | Tues | 6.29pm
+- Javascript debugger
+- Source files
+- Source code
+- breakpoints
+- Call stack
+- Scopes (didn't understand this and above 2 atm)
+- JS Console
+- alert('hello!');
+- document.querySelector('html').style.backgroundColor = 'purple';
+- const myWordmark = document.createElement('img');
+myWordmark.setAttribute('src', 'https://blog.mozilla.org/press/wp-content/themes/OneMozilla/img/mozilla-wordmark.png');
+document.querySelector('h1').appendChild(myWordmark);
+
+---
+
+
